@@ -1,0 +1,91 @@
+==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-===
+==-=-=-=-=-=-=-= CHANGELOG ==-=-=-=-=-=-=-==
+==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-===
+-Fixed Recipe Book
+-Fixed Colour Inconsistency In Inventory Armour
+-Recentered Logo
+-Various Item Tweaks
+-Variuos Lang Tweaks
+-Updated Splash Text
+
+==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==
+==-=-=-=-=-=-=-= CUSTOM MODELS UPDATE ==-=-=-=-=-=-=-==
+==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==
+=---------------= CUSTOM MODELS =---------------=
+Wandering Trader -> NPCs? 10% chance?
+Glitch slime should animate glitches
+Animate Boom & Tarr
+
+=---------------= PAINTINGS =---------------=
+Use random textures to double painting count
+Secret styles paintings?
+Battys being spookie
+Glitch glitching
+Thunderchick (all chicks?)
+Jello
+
+=---------------= FLOWERS =---------------=
+Named flowers use specific texture/model?
+Overworld flowers in nether change?
+Nether flowers in overworld change?
+Blossoms -> Fire Flowers?
+Cold biomes -> auroroara translucence
+Nether -> fire glowey stuff?
+Red Nether Grass -> Tiny fire flowers?
+
+=---------------= MISC =---------------=
+Bowl + Name Tag -> Tarr Mug
+Music Pack -> Update to use copyright free tracks
+Honeycomb -> Hexacomb
+Magma Cream -> Pepperjam?
+Quartz -> Radiant Ore? Glass Shard?
+Nether Star -> Manifold Cube?
+LLamas -> Carpet designs?
+
+
+
+==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==
+==-=-=-=-=-=-=-= SLIMECRAFT MOD ==-=-=-=-=-=-=-==
+==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==
+=---------------= BEHAVIORS =---------------=
+Holding item -> Foxes
+Eating item -> Foxes
+Hunting entity -> Wolves
+Dispensing plort -> Entity death
+Danger -> Rabbit
+On death -> Drops plort, status effect that scares slimes
+Quantum -> Enderman
+Water cannon -> Snow golem
+Tarr only hunt slimes.
+
+=---------------= MISC =---------------=
+Slime biomes?
+Twinkle -> Give note particle effects
+Custom slimes? Could be toggled in options
+
+
+
+==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==
+==-=-=-=-=-=-=-= SLIMEFACTORY MOD ==-=-=-=-=-=-=-==
+==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==
+=---------------= CORE FEATURES =---------------=
+Water cannon golem -> See concept art.
+   Would need refueling stations for water reserves
+   Would need helper bees to ferry water?
+   Would imply need for pipes for water?
+   Water could play large role in mod.
+Different plorts power different things
+   Custom slimes could be alternatives to main, for more customised experience
+Plort fusion -> Weaker, more versitile
+Incorrect plort causes short circuit?
+   May require modular machines to replace faulty circuits.
+Heavy emphasis on magic machinery, no pollution.
+Need conversion from RF to plort?
+   May emphasis on being paired with Create instead.
+
+=---------------= MISC =---------------=
+Tarr
+   Feral Tarr? Tarr corruption?
+   Would cause Tarr to attack all non-tarr entities.
+   Tarr slime becomes living flesh super organism?
+   May need to be seperate non-tarr, would make tarr seem mild in comparision.
