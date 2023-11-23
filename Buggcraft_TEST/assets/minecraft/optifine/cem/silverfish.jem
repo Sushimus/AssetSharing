@@ -178,15 +178,15 @@
 			],
 			"animations": [
 				{
-					"front_legs.rx": "sin(time/2) * 0.4",
-					"front_legs_right.rz": "cos(time/2) * 0.2",
-					"front_legs_left.rz": "cos(time/2) * -0.2",
-					"mid_legs.rx": "cos(time/2) * 0.4",
-					"mid_legs_right.rz": "sin(time/2) * 0.2",
-					"mid_legs_left.rz": "sin(time/2) * -0.2",
-					"back_legs.rx": "sin(time/2) * 0.4",
-					"back_legs_right.rz": "cos(time/2) * 0.2",
-					"back_legs_left.rz": "cos(time/2) * -0.2"
+					"front_legs.rx": "-sin(time % 360) * 0.4",
+					"front_legs_right.rz": "cos(time/3) * 0.2",
+					"front_legs_left.rz": "cos(time/3) * -0.2",
+					"mid_legs.rx": "cos(time % 360) * 0.4",
+					"mid_legs_right.rz": "sin(time/3) * 0.2",
+					"mid_legs_left.rz": "sin(time/3) * -0.2",
+					"back_legs.rx": "-sin(time % 360) * 0.4",
+					"back_legs_right.rz": "cos(time/3) * 0.2",
+					"back_legs_left.rz": "cos(time/3) * -0.2"
 				}
 			]
 		},
